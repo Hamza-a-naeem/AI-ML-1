@@ -1,0 +1,3 @@
+[Numpy Notes](https://www.notion.so/Numpy-2a9b341f81c4802fb9b7f6b36f019270?source=copy_link)
+
+[Pandas Notes](https://www.notion.so/Pandas-2a9b341f81c48041adc9d415d34308f3?source=copy_link)
